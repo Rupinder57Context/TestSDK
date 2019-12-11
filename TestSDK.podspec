@@ -2,8 +2,8 @@
 
 Pod::Spec.new do |spec|
 
-  spec.name         = "TestSDk"
-  spec.version      = "1.0.0"
+  spec.name         = "TestSDK"
+  spec.version      = "0.1.0"
   spec.summary      = "SDK"
 
  
@@ -14,7 +14,7 @@ Pod::Spec.new do |spec|
 
   spec.license      = "MIT"
   spec.source       = { :git => "https://github.com/Rupinder57Context/TestSDK.git", 
-             :tag => "#1.0" }
+             :tag => "0.1.0" }
 
 
 
