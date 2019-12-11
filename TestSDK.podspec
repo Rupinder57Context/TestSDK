@@ -9,10 +9,12 @@ Pod::Spec.new do |spec|
  
   spec.description  = "Aequum tech Test sdk"
 
-  spec.homepage     = "http://google.com"
+  spec.homepage     = "https://github.com/Rupinder57Context/TestSDK"
+
 
   spec.license      = "MIT"
-  spec.source       = { :path => '.' }
+  spec.source       = { :git => "https://github.com/Rupinder57Context/TestSDK.git", 
+             :tag => "#1.0" }
 
 
 
